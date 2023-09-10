@@ -190,6 +190,10 @@ margin-block: 32px;
     margin-bottom: 20px;
 }
 
+.content ul li::marker {
+    color: #6D28D9;
+}
+
 .content pre {
     background-color: #171717 ;
     color: #ffffff;
